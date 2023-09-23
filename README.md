@@ -1,16 +1,17 @@
-# quiz_app
+# Quiz_App
 
-A new Flutter project.
+A flutter app that displays MCQ's.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is an App that displays multiple questions and options, user need to select the right answer and after completing the quiz you get your final score and Laso the correct and wrong answer list, to identify your mistakes. 
+
+Few packages have been used for different functionalities and for UI decorations. 
+1.cupertino_icons
+2.google_fonts
 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
